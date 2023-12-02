@@ -1,0 +1,30 @@
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.exe
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.deps.json
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.json
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.dev.json
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows_Forms_Chat.Form1.resources
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.GenerateResource.cache
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfoInputs.cache
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfo.cs
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CoreCompileInputs.cache
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\kmhoa\Downloads\Compressed\wf-socket-chat-commands-master\wf-socket-chat-commands-master\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.genruntimeconfig.cache
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.exe
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.deps.json
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.json
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.runtimeconfig.dev.json
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\bin\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows_Forms_Chat.Form1.resources
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.GenerateResource.cache
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfoInputs.cache
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.AssemblyInfo.cs
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.csproj.CoreCompileInputs.cache
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.dll
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.pdb
+C:\Users\kmhoa\Downloads\Compressed\C# Chat Program\C# Chat Program\Windows Forms core chat\obj\Debug\netcoreapp3.1\Windows Forms core chat.genruntimeconfig.cache
